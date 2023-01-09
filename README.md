@@ -207,9 +207,9 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Bludidi](https://github.com/Bludidi)
+- Twitter: [@BB_Ludidi](https://twitter.com/bb_ludidi)
+- LinkedIn: [Brian Ludidi](https://www.linkedin.com/in/brian-ludidi/)
 
 👤 **Author2**
 
